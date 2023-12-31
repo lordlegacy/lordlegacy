@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Standing on business</h1>
 <h3 align="center">A data scientist</h3>
-<img align="right" width="400" src="https://media1.tenor.com/m/7zFN6ZPlrQ4AAAAC/ronaldo-manchester-united.gif">
+<img align="left" width="400" src="https://media1.tenor.com/m/7zFN6ZPlrQ4AAAAC/ronaldo-manchester-united.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lordlegacy&label=Profile%20views&color=0e75b6&style=flat" alt="lordlegacy" /> </p>
 
