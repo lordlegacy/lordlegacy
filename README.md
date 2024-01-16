@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on [Data pipelines](https://github.com/lordlegacy/pipeline.git)
 
-- 🤝 I’m looking for help with [Appache kafka](https://github.com/lordlegacy/pipeline.git)
+- 🤝 I’m looking for help with [Apache kafka](https://github.com/lordlegacy/pipeline.git)
 
 - 👨‍💻 All of my projects are available at [https://github.com/lordlegacy](https://github.com/lordlegacy)
 
