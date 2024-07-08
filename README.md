@@ -31,7 +31,7 @@ I'm a **Software Engineer** specializing in backend development and API design. 
 <div class="badges-githubstats">
   <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=yourusername&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="Your GitHub Stats" height="165">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true" alt="Your GitHub Streak" height="165">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=lordlegacy&theme=tokyonight&hide_border=true" alt="Your GitHub Streak" height="165">
   </p>
 </div>
 
