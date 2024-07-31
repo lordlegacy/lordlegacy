@@ -1,6 +1,5 @@
 # Hello World! I'm Edwin 👋
 
-![Profile views](https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=60598F&style=flat)
 
 <div class="github-introduction">
 
