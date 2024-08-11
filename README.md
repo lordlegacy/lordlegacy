@@ -7,7 +7,7 @@ I'm a **Software Engineer** specializing in backend development and API design. 
 
 </div>
 
-- 💼 Open for collaboration on exciting backend projects. Reach out via <a href="mailto:youremail@example.com">email</a>.
+- 💼 Open for collaboration on exciting backend projects. Reach out via <a href="mailto:edwinodero70@gmail.com">email</a>.
 - 💬 Ask me about Python, FastAPI, API design, or backend architecture!
 
 <div class="badges-intro">
