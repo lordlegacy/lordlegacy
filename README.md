@@ -3,7 +3,7 @@
 
 <div class="github-introduction">
 
-I'm a **Software Dveloper** specializing in backend development and API design. My passion lies in building robust, scalable web applications that power the internet. With a strong foundation in Python and modern web frameworks, I strive to create efficient and maintainable code that solves real-world problems.
+I'm a **Software Developer** specializing in backend development and API design. My passion lies in building robust, scalable web applications that power the internet. With a strong foundation in Python and modern web frameworks, I strive to create efficient and maintainable code that solves real-world problems.
 
 </div>
 
