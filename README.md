@@ -25,15 +25,6 @@ I'm a **Software Developer** specializing in backend development and API design.
 
 </div>
 
-## 📈 My GitHub Stats
-
-<div class="badges-githubstats">
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=lordlegacy&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="Your GitHub Stats" height="165">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=lordlegacy&theme=tokyonight&hide_border=true" alt="Your GitHub Streak" height="165">
-  </p>
-</div>
-
 ### <p align="center">⚙️ My Development Environment</p>
 
 > I'm a Linux enthusiast, with Ubuntu as my primary development platform. I love the power and flexibility of the Linux command line for development tasks.
